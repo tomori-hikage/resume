@@ -65,8 +65,8 @@
 
 |Date|Event|
 |----|-----|
-|2018/03/25|[【学生限定】AbemaTV キャリア講演会 OthloEvent#27](https://othlotech.connpass.com/event/80461/)|
 |2018/03/25|[【OthloTech x 学生LT】サイバーエージェント 年度末LTパーティー](https://othlotech.connpass.com/event/80462/)|
+|2018/03/25|[【学生限定】AbemaTV キャリア講演会 OthloEvent#27](https://othlotech.connpass.com/event/80461/)|
 
 ## 登壇歴
 
