@@ -82,6 +82,7 @@
 
 |Date|Event|Slide|
 |----|-----|-----|
+|2018/03/25|[【OthloTech x 学生LT】サイバーエージェント 年度末LTパーティー](https://othlotech.connpass.com/event/80462/)|最高の日本語入力システムSKKのすゝめ|
 |2017/12/21|[【サポーターズ勉強会】【Unity】SRDebuggerの使い方と拡張方法の紹介](https://supporterzcolab.com/event/242/)|[【Unity】SRDebuggerの使い方と拡張方法の紹介](https://qiita.com/tomoriaki/items/a2372333f8b73b421113)|
 
 ## 受賞歴
