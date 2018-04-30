@@ -67,7 +67,7 @@
 
 ### 同人誌
 
-|Date|Event|Book|Role|
+|Date|Event|Title|Role|
 |----|-----|----|----|
 |2018/04/22|[技術書典4](https://techbookfest.org/event/tbf04)|[UniTips(共著)](https://techbookfest.org/event/tbf04/circle/22020006)|Re:VIEWの環境構築, 推敲, 校正, 入稿, 『第6章 Visual Studio のオススメ拡張機能 6 選』の執筆|
 
@@ -80,7 +80,7 @@
 
 ## 登壇歴
 
-|Date|Event|Slide|
+|Date|Event|Title|
 |----|-----|-----|
 |2018/03/25|[【OthloTech x 学生LT】サイバーエージェント 年度末LTパーティー](https://othlotech.connpass.com/event/80462/)|最高の日本語入力システムSKKのすゝめ|
 |2017/12/21|[【サポーターズ勉強会】【Unity】SRDebuggerの使い方と拡張方法の紹介](https://supporterzcolab.com/event/242/)|[【Unity】SRDebuggerの使い方と拡張方法の紹介](https://qiita.com/tomoriaki/items/a2372333f8b73b421113)|
