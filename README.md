@@ -69,7 +69,7 @@
 
 |Date|Event|Title|Role|
 |----|-----|----|----|
-|2018/04/22|[技術書典4](https://techbookfest.org/event/tbf04)|[UniTips(共著)](https://techbookfest.org/event/tbf04/circle/22020006)|Re:VIEWの環境構築, 推敲, 校正, 入稿, 『第6章 Visual Studio のオススメ拡張機能 6 選』の執筆|
+|2018/04/22|[技術書典4](https://techbookfest.org/event/tbf04)|[UniTips(共著)](https://techbookfest.org/event/tbf04/circle/22020006)|Re:VIEWの環境構築, 推敲, 校正, 入稿<br>『第6章 Visual Studio のオススメ拡張機能 6 選』の執筆|
 
 ## 運営歴
 
