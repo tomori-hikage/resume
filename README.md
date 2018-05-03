@@ -86,4 +86,8 @@
 |2017/12/21|[【サポーターズ勉強会】【Unity】SRDebuggerの使い方と拡張方法の紹介](https://supporterzcolab.com/event/242/)|[【Unity】SRDebuggerの使い方と拡張方法の紹介](https://qiita.com/tomoriaki/items/a2372333f8b73b421113)|
 
 ## 受賞歴
-- Akatsuki VR Sound Jam 総合優勝
+
+|Date|Title|
+|----|-----|
+|2017/04/23|Akatsuki VR Sound Jam 総合優勝|
+|2015/10/04|U-22プログラミング・コンテスト2015 CSAJ会長賞|
