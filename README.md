@@ -31,6 +31,18 @@
 |UniRx|2年以上の開発経験|
 |Zenject|1年以上の開発経験|
 
+### 使用しているツール
+
+- GitKraken
+- Sourcetree
+- Unity Cloud Build
+- PlantUML(検証中)
+- DocBase(検証中)
+- PowerPoint
+- Trello
+- Wrike(検証中)
+- Slack
+
 ### その他
 
 - HTC ViveによるVR開発経験
