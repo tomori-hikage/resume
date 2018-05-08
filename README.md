@@ -130,6 +130,8 @@
 #### AI
 
 - state-machine
+- Behavior Designer(検証中)
+- A* Pathfinding Project Pro(検証中)
 
 #### カメラ
 
@@ -143,11 +145,6 @@
 #### ビジュアルノベル
 
 - UTAGE3
-
-#### 検証中
-
-- Behavior Designer
-- A* Pathfinding Project Pro
 
 ### その他
 
