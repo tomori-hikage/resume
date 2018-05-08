@@ -67,6 +67,16 @@
 - 新卒採用
     - 新卒採用強化プロジェクトの総会にて最優秀ベストリクルーター賞を受賞
 
+## ポートフォリオ
+
+|Title|Description|
+|-----|-----|
+|[json-formatter](https://github.com/tomoriaki/json-formatter)|JSONのフォーマットクラス|
+|[create-empty-at-zero-position](https://github.com/tomoriaki/create-empty-at-zero-position)|生成した空のゲームオブジェクトのローカル座標をVector3.zeroにするエディタ拡張|
+|[collider-visualizer](https://github.com/tomoriaki/collider-visualizer)|当たり判定の表示デバッグ機能|
+|[state-machine](https://github.com/tomoriaki/state-machine)|UniRxをベースにしたステートマシン|
+|[ugui-script-creator](https://github.com/tomoriaki/ugui-script-creator)|uGUIをスクリプトで構築するためのAsset|
+
 ## 執筆歴
 
 ### 同人誌
