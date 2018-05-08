@@ -33,15 +33,15 @@
 
 ### 使用しているツール
 
-- GitKraken
-- Sourcetree
-- Unity Cloud Build
-- PlantUML(検証中)
-- DocBase(検証中)
-- PowerPoint
-- Trello
-- Wrike(検証中)
-- Slack
+- [GitKraken](https://www.gitkraken.com/)
+- [Sourcetree](https://ja.atlassian.com/software/sourcetree)
+- [Unity Cloud Build](https://unity3d.com/jp/unity/features/cloud-build)
+- [PlantUML(検証中)](http://plantuml.com/)
+- [DocBase(検証中)](https://docbase.io/)
+- [PowerPoint](https://www.microsoft.com/ja-jp/store/b/powerpoint-2016?invsrc=search&cl_vend=google&cl_ch=sem&cl_camp=1019779145&cl_adg=47015374941&cl_crtv=266790658703&cl_kw=powerpoint&cl_pub=google.com&cl_place=&cl_dvt=c&cl_pos=1t1&cl_mt=e&cl_gtid=kwd-11651171&cl_pltr=&cl_dim0=Wup2sgAAAJpPABMJ:20180508160333:s&OCID=AID695748_SEM_Wup2sgAAAJpPABMJ:20180508160333:s&s_kwcid=AL!4249!3!266790658703!e!!g!!powerpoint&ef_id=Wup2sgAAAJpPABMJ:20180508160333:s)
+- [Trello](https://trello.com/)
+- [Wrike(検証中)](https://try.wrike.com/ja-all-in-one-collaboration-project/?ga_campaign=JP+SRCH+Competitors+EN+JP+LT&ga_adgroup=Trello-Exact&ga_keyword=trello&gclid=CjwKCAjwlcXXBRBhEiwApfHGTfmhAogzH68RGXnFz3foC2spEVe17zcKTrM92BKlWz_QgQ1_ULstoBoCY2sQAvD_BwE)
+- [Slack](https://slack.com/intl/ja-jp)
 
 ### その他
 
