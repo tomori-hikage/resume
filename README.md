@@ -31,6 +31,16 @@
 |UniRx|2年以上の開発経験|
 |Zenject|1年以上の開発経験|
 
+### ポートフォリオ
+
+|Title|Description|
+|-----|-----|
+|[collider-visualizer](https://github.com/tomoriaki/collider-visualizer)|当たり判定の表示デバッグ機能|
+|[create-empty-at-zero-position](https://github.com/tomoriaki/create-empty-at-zero-position)|生成した空のゲームオブジェクトのローカル座標をVector3.zeroにするエディタ拡張|
+|[json-formatter](https://github.com/tomoriaki/json-formatter)|JSONのフォーマットクラス|
+|[state-machine](https://github.com/tomoriaki/state-machine)|UniRxをベースにしたステートマシン|
+|[ugui-script-creator](https://github.com/tomoriaki/ugui-script-creator)|uGUIをスクリプトで構築するためのAsset|
+
 ### 使用しているツール
 
 - [GitKraken](https://www.gitkraken.com/)
@@ -42,6 +52,102 @@
 - [Trello](https://trello.com/)
 - [Wrike(検証中)](https://try.wrike.com/ja-all-in-one-collaboration-project/?ga_campaign=JP+SRCH+Competitors+EN+JP+LT&ga_adgroup=Trello-Exact&ga_keyword=trello&gclid=CjwKCAjwlcXXBRBhEiwApfHGTfmhAogzH68RGXnFz3foC2spEVe17zcKTrM92BKlWz_QgQ1_ULstoBoCY2sQAvD_BwE)
 - [Slack](https://slack.com/intl/ja-jp)
+
+### 使用しているアセット
+
+#### フレームワーク
+
+- Zenject
+
+#### ライブラリ
+
+- UniRx
+- UniIx
+- ExtraLINQ
+- LINQ to GameObject
+- Odin
+- DOTween Pro
+- AnimeRx
+
+#### 簡易ライブラリ
+
+- gameobject_extension_component
+- json-formatter
+
+#### エディタ拡張
+
+- Hierarchy PRO
+- TransformPro
+- Editor Console Pro
+- Haste Pro
+- Rainbow Folders
+- PA_ResourceTracker
+
+#### 簡易エディタ拡張
+
+- EasyScriptTester
+- Mulligan Renamer
+- SymbolCatalog
+- ProjectSettingsToolbar
+- create-empty-at-zero-position
+- EditorExtensions
+- Component Copier
+- TypeSafe
+
+#### オブジェクトプーリング
+
+- PoolManager
+
+#### デバッグ
+
+- SRDebugger
+- collider-visualizer
+
+#### インプット
+
+- Easy Touch 5
+
+#### アニメーション
+
+- SimpleAnimation
+- Final IK
+- Very Animation
+- Dynamic Bone
+
+#### オーディオ
+
+- Master Audio
+
+#### UI
+
+- TextMesh Pro
+- Curved UI
+
+#### セーブデータ
+
+- Easy Save
+
+#### AI
+
+- state-machine
+
+#### カメラ
+
+- Pro Camera 2D
+
+#### レベルデザイン
+
+- ProBuilder
+- ProGrids
+
+#### ビジュアルノベル
+
+- UTAGE3
+
+#### 検証中
+
+- Behavior Designer
+- A* Pathfinding Project Pro
 
 ### その他
 
@@ -66,16 +172,6 @@
 - 運用タイトルのカスタマーサポート
 - 新卒採用
     - 新卒採用強化プロジェクトの総会にて最優秀ベストリクルーター賞を受賞
-
-## ポートフォリオ
-
-|Title|Description|
-|-----|-----|
-|[collider-visualizer](https://github.com/tomoriaki/collider-visualizer)|当たり判定の表示デバッグ機能|
-|[create-empty-at-zero-position](https://github.com/tomoriaki/create-empty-at-zero-position)|生成した空のゲームオブジェクトのローカル座標をVector3.zeroにするエディタ拡張|
-|[json-formatter](https://github.com/tomoriaki/json-formatter)|JSONのフォーマットクラス|
-|[state-machine](https://github.com/tomoriaki/state-machine)|UniRxをベースにしたステートマシン|
-|[ugui-script-creator](https://github.com/tomoriaki/ugui-script-creator)|uGUIをスクリプトで構築するためのAsset|
 
 ## 執筆歴
 
