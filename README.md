@@ -5,7 +5,6 @@
 |key|value|
 |---|-----|
 |Name|戸森|
-|Age|22|
 |Twitter|[@tomoriaki](https://twitter.com/tomoriaki)|
 |Qiita|[@tomoriaki](https://qiita.com/tomoriaki)|
 
