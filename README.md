@@ -8,6 +8,10 @@
 |Twitter|[@tomoriaki](https://twitter.com/tomoriaki)|
 |Qiita|[@tomoriaki](https://qiita.com/tomoriaki)|
 
+## 希望業務
+
+- VR関連コンテンツの開発
+
 ## スキル
 
 ### 言語
@@ -149,10 +153,6 @@
 ### その他
 
 - HTC ViveによるVR開発経験
-
-## 希望業務
-
-- VR関連コンテンツの開発
 
 ## 職務経歴
 
