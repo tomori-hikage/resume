@@ -5,8 +5,8 @@
 |key|value|
 |---|-----|
 |Name|戸森|
-|Twitter|[@tomoriaki](https://twitter.com/tomoriaki)|
-|Qiita|[@tomoriaki](https://qiita.com/tomoriaki)|
+|Twitter|[@tomori_hikage](https://twitter.com/tomori_hikage)|
+|Qiita|[@tomori_hikage](https://qiita.com/tomori_hikage)|
 
 ## 希望業務
 
@@ -39,11 +39,11 @@
 
 |Title|Description|
 |-----|-----|
-|[collider-visualizer](https://github.com/tomoriaki/collider-visualizer)|当たり判定の表示デバッグ機能|
-|[create-empty-at-zero-position](https://github.com/tomoriaki/create-empty-at-zero-position)|生成した空のゲームオブジェクトのローカル座標をVector3.zeroにするエディタ拡張|
-|[json-formatter](https://github.com/tomoriaki/json-formatter)|JSONのフォーマットクラス|
-|[state-machine](https://github.com/tomoriaki/state-machine)|UniRxをベースにしたステートマシン|
-|[ugui-script-creator](https://github.com/tomoriaki/ugui-script-creator)|uGUIをスクリプトで構築するためのAsset|
+|[collider-visualizer](https://github.com/tomori-hikage/collider-visualizer)|当たり判定の表示デバッグ機能|
+|[create-empty-at-zero-position](https://github.com/tomori-hikage/create-empty-at-zero-position)|生成した空のゲームオブジェクトのローカル座標をVector3.zeroにするエディタ拡張|
+|[json-formatter](https://github.com/tomori-hikage/json-formatter)|JSONのフォーマットクラス|
+|[state-machine](https://github.com/tomori-hikage/state-machine)|UniRxをベースにしたステートマシン|
+|[ugui-script-creator](https://github.com/tomori-hikage/ugui-script-creator)|uGUIをスクリプトで構築するためのAsset|
 
 ### 使用しているツール
 
@@ -110,6 +110,7 @@
 #### インプット
 
 - Easy Touch 5
+- TouchScript
 
 #### アニメーション
 
