@@ -4,7 +4,7 @@
 
 |key|value|
 |---|-----|
-|Name|戸森|
+|Name|戸森ひかげ|
 |Twitter|[@tomori_hikage](https://twitter.com/tomori_hikage)|
 |Qiita|[@tomori_hikage](https://qiita.com/tomori_hikage)|
 
