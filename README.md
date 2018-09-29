@@ -5,12 +5,13 @@
 |key|value|
 |---|-----|
 |Name|戸森ひかげ|
-|Twitter|[@tomori_hikage](https://twitter.com/tomori_hikage)|
+|GitHub|[tomori-hikage](https://github.com/tomori-hikage)|
 |Qiita|[@tomori_hikage](https://qiita.com/tomori_hikage)|
+|Twitter|[@tomori_hikage](https://twitter.com/tomori_hikage)|
 
 ## 希望業務
 
-- VR関連コンテンツの開発
+- XRコンテンツの開発
 
 ## スキル
 
@@ -39,6 +40,7 @@
 
 |Title|Description|
 |-----|-----|
+|[UnityChanToonShaderVer2_EmissiveScroll](https://github.com/tomori-hikage/UnityChanToonShaderVer2_EmissiveScroll)|UTS2.0にEmissiveの明滅機能とスクロール機能を追加したシェーダー|
 |[collider-visualizer](https://github.com/tomori-hikage/collider-visualizer)|当たり判定の表示デバッグ機能|
 |[create-empty-at-zero-position](https://github.com/tomori-hikage/create-empty-at-zero-position)|生成した空のゲームオブジェクトのローカル座標をVector3.zeroにするエディタ拡張|
 |[json-formatter](https://github.com/tomori-hikage/json-formatter)|JSONのフォーマットクラス|
@@ -66,11 +68,11 @@
 #### ライブラリ
 
 - UniRx
-- UniIx
 - ExtraLINQ
 - LINQ to GameObject
 - Odin
 - DOTween Pro
+- UniIx
 - AnimeRx
 
 #### 簡易ライブラリ
@@ -81,11 +83,11 @@
 #### エディタ拡張
 
 - Hierarchy PRO
-- TransformPro
 - Editor Console Pro
 - Haste Pro
 - Rainbow Folders
 - PA_ResourceTracker
+- TransformPro
 
 #### 簡易エディタ拡張
 
@@ -116,8 +118,8 @@
 
 - SimpleAnimation
 - Final IK
-- Very Animation
 - Dynamic Bone
+- Very Animation
 
 #### オーディオ
 
@@ -140,6 +142,7 @@
 
 #### カメラ
 
+- Cinemachine
 - Pro Camera 2D
 
 #### レベルデザイン
