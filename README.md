@@ -92,9 +92,10 @@
 #### 簡易エディタ拡張
 
 - EasyScriptTester
-- Mulligan Renamer
-- SymbolCatalog
+- CopyComponentsByRegex
 - ProjectSettingsToolbar
+- SymbolCatalog
+- Mulligan Renamer
 - create-empty-at-zero-position
 - EditorExtensions
 - Component Copier
