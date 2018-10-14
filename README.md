@@ -89,13 +89,13 @@
 #### 簡易エディタ拡張
 
 - EasyScriptTester
-- CopyComponentsByRegex
 - ProjectSettingsToolbar
 - SymbolCatalog
-- Mulligan Renamer
 - create-empty-at-zero-position
 - EditorExtensions
+- CopyComponentsByRegex
 - Component Copier
+- Mulligan Renamer
 
 #### オブジェクトプーリング
 
