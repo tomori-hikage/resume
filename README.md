@@ -40,6 +40,7 @@
 
 |Title|Description|
 |-----|-----|
+|[UnityChanToonShaderVer2_VerticalDissolve](https://github.com/tomori-hikage/UnityChanToonShaderVer2_VerticalDissolve)|UTS2.0にVerticalDissolve機能を追加したシェーダー|
 |[UnityChanToonShaderVer2_EmissiveScroll](https://github.com/tomori-hikage/UnityChanToonShaderVer2_EmissiveScroll)|UTS2.0にEmissiveの明滅機能とスクロール機能を追加したシェーダー|
 |[collider-visualizer](https://github.com/tomori-hikage/collider-visualizer)|当たり判定の表示デバッグ機能|
 |[create-empty-at-zero-position](https://github.com/tomori-hikage/create-empty-at-zero-position)|生成した空のゲームオブジェクトのローカル座標をVector3.zeroにするエディタ拡張|
@@ -84,17 +85,17 @@
 - Hierarchy PRO
 - Editor Console Pro
 - Rainbow Folders
-- PA_ResourceTracker
+- AssetGraphTool
 
 #### 簡易エディタ拡張
 
-- EasyScriptTester
 - ProjectSettingsToolbar
 - SymbolCatalog
 - create-empty-at-zero-position
 - EditorExtensions
 - CopyComponentsByRegex
 - Component Copier
+- Asset Hunter
 - Mulligan Renamer
 
 #### オブジェクトプーリング
@@ -103,10 +104,13 @@
 
 #### デバッグ
 
+- EasyScriptTester
 - SRDebugger
+- PA_ResourceTracker
 
 #### インプット
 
+- Rewired
 - Easy Touch 5
 - TouchScript
 
@@ -115,6 +119,8 @@
 - SimpleAnimation
 - Final IK
 - Dynamic Bone
+- SALSA With RandomEyes
+- UMotion Pro
 - Very Animation
 
 #### オーディオ
@@ -124,11 +130,15 @@
 #### UI
 
 - TextMesh Pro
-- Curved UI
 
 #### セーブデータ
 
 - Easy Save
+
+#### シェーダー
+
+- Amplify Shader Editor
+- Camera Play
 
 #### AI
 
@@ -160,13 +170,21 @@
 
 職務: クライアントエンジニア
 
+#### [バーチャルライブアプリ IRIAM(イリアム)](https://iriam.com/)
+
+![IRIAM](https://github.com/tomori-hikage/resume/blob/master/Images/iriam.png)
+
 - インゲームUIの設計, 実装
+- アウトゲームUIの設計, 実装
 - Unityエディター拡張によるUtilityツールの設計, 実装
 - SRDebuggerのデバッグ機能の実装
+- iOSネイティブプラグインの実装
 
 ### 2017/04 - 2018/06: 株式会社サイバーエージェント
 
 職務: クライアントエンジニア
+
+#### 新規スマートフォンゲーム開発
 
 - インゲームのバトルロジックの設計, 実装
 - Unityエディター拡張によるタイムラインスキルエディターの設計, 実装
