@@ -40,6 +40,7 @@
 
 |Title|Description|
 |-----|-----|
+|[find-references-in-scene](https://github.com/tomori-hikage/find-references-in-scene)|コンポーネントを参照しているオブジェクトを検索するエディタ拡張|
 |[UnityChanToonShaderVer2_VerticalDissolve](https://github.com/tomori-hikage/UnityChanToonShaderVer2_VerticalDissolve)|UTS2.0にVerticalDissolve機能を追加したシェーダー|
 |[UnityChanToonShaderVer2_EmissiveScroll](https://github.com/tomori-hikage/UnityChanToonShaderVer2_EmissiveScroll)|UTS2.0にEmissiveの明滅機能とスクロール機能を追加したシェーダー|
 |[collider-visualizer](https://github.com/tomori-hikage/collider-visualizer)|当たり判定の表示デバッグ機能|
