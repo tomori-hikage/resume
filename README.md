@@ -25,6 +25,8 @@
 |プログラミング言語|備考|
 |---|---|
 |C#|4年以上の開発経験|
+|ShaderLab|2年以上の開発経験|
+|Objective-C|1年以上の開発経験|
 |C++|2年以上の開発経験|
 |C|2年以上の開発経験|
 
@@ -52,8 +54,8 @@
 ### 使用しているツール
 
 - [GitKraken](https://www.gitkraken.com/)
-- [Sourcetree](https://ja.atlassian.com/software/sourcetree)
 - [Unity Cloud Build](https://unity3d.com/jp/unity/features/cloud-build)
+- [Hyper](https://hyper.is/)
 - [PlantUML](http://plantuml.com/)
 - [Airtest IDE](https://airtest.netease.com/)
 - [Kibela](https://kibe.la/ja)
@@ -85,6 +87,7 @@
 
 - Hierarchy PRO
 - Editor Console Pro
+- Favourites
 - Rainbow Folders
 - AssetGraphTool
 
