@@ -42,6 +42,7 @@
 
 |Title|Description|
 |-----|-----|
+|[game-view-maximizer](https://github.com/tomori-hikage/game-view-maximizer)|GameViewをショートカットキーからMaximizeするエディタ拡張|
 |[find-references-in-scene](https://github.com/tomori-hikage/find-references-in-scene)|コンポーネントを参照しているオブジェクトを検索するエディタ拡張|
 |[UnityChanToonShaderVer2_VerticalDissolve](https://github.com/tomori-hikage/UnityChanToonShaderVer2_VerticalDissolve)|UTS2.0にVerticalDissolve機能を追加したシェーダー|
 |[UnityChanToonShaderVer2_EmissiveScroll](https://github.com/tomori-hikage/UnityChanToonShaderVer2_EmissiveScroll)|UTS2.0にEmissiveの明滅機能とスクロール機能を追加したシェーダー|
@@ -93,6 +94,8 @@
 
 #### 簡易エディタ拡張
 
+- LockInspector
+- game-view-maximizer
 - ProjectSettingsToolbar
 - SymbolCatalog
 - create-empty-at-zero-position
