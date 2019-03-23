@@ -24,7 +24,7 @@
 
 |プログラミング言語|備考|
 |---|---|
-|C#|4年以上の開発経験|
+|C#|5年以上の開発経験|
 |ShaderLab|2年以上の開発経験|
 |Objective-C|1年以上の開発経験|
 |C++|2年以上の開発経験|
@@ -34,8 +34,8 @@
 
 |名称|備考|
 |---|---|
-|Unity|4年以上の開発経験|
-|UniRx|2年以上の開発経験|
+|Unity|5年以上の開発経験|
+|UniRx|3年以上の開発経験|
 |Zenject|1年以上の開発経験|
 
 ### ポートフォリオ
@@ -52,10 +52,17 @@
 |[state-machine](https://github.com/tomori-hikage/state-machine)|UniRxをベースにしたステートマシン|
 |[ugui-script-creator](https://github.com/tomori-hikage/ugui-script-creator)|uGUIをスクリプトで構築するためのAsset|
 
+### 使用しているデバイス
+
+- HTC VIVE
+- HTC VIVE Tracker 2018
+- Looking Glass
+
 ### 使用しているツール
 
 - [GitKraken](https://www.gitkraken.com/)
 - [Unity Cloud Build](https://unity3d.com/jp/unity/features/cloud-build)
+- [IKINEMA Orion](https://ikinema.com/orion)
 - [Docker for Windows](https://docs.docker.com/docker-for-windows/)
 - [Hyper](https://hyper.is/)
 - [PlantUML](http://plantuml.com/)
@@ -168,9 +175,9 @@
 
 - UTAGE3
 
-### その他
+#### VR
 
-- HTC ViveによるVR開発経験
+- SteamVR Plugin
 
 ## 職務経歴
 
