@@ -30,18 +30,17 @@
 |C++|2年以上の開発経験|
 |C|2年以上の開発経験|
 
-### ゲームエンジン / フレームワーク / ライブラリ
+### ゲームエンジン
 
 |名称|備考|
 |---|---|
 |Unity|5年以上の開発経験|
-|UniRx|3年以上の開発経験|
-|Zenject|1年以上の開発経験|
 
 ### ポートフォリオ
 
 |Title|Description|
 |-----|-----|
+|[inspector-duplicator](https://github.com/tomori-hikage/inspector-duplicator)|Inspectorビューをショートカットキーから複製してLockするエディタ拡張|
 |[game-view-maximizer](https://github.com/tomori-hikage/game-view-maximizer)|GameViewをショートカットキーからMaximizeするエディタ拡張|
 |[find-references-in-scene](https://github.com/tomori-hikage/find-references-in-scene)|コンポーネントを参照しているオブジェクトを検索するエディタ拡張|
 |[UnityChanToonShaderVer2_VerticalDissolve](https://github.com/tomori-hikage/UnityChanToonShaderVer2_VerticalDissolve)|UTS2.0にVerticalDissolve機能を追加したシェーダー|
@@ -60,17 +59,15 @@
 
 ### 使用しているツール
 
-- [GitKraken](https://www.gitkraken.com/)
-- [Unity Cloud Build](https://unity3d.com/jp/unity/features/cloud-build)
-- [IKINEMA Orion](https://ikinema.com/orion)
-- [Docker for Windows](https://docs.docker.com/docker-for-windows/)
-- [Hyper](https://hyper.is/)
-- [PlantUML](http://plantuml.com/)
-- [Airtest IDE](https://airtest.netease.com/)
-- [Kibela](https://kibe.la/ja)
-- [PowerPoint](https://www.microsoft.com/ja-jp/store/b/powerpoint-2016?invsrc=search&cl_vend=google&cl_ch=sem&cl_camp=1019779145&cl_adg=47015374941&cl_crtv=266790658703&cl_kw=powerpoint&cl_pub=google.com&cl_place=&cl_dvt=c&cl_pos=1t1&cl_mt=e&cl_gtid=kwd-11651171&cl_pltr=&cl_dim0=Wup2sgAAAJpPABMJ:20180508160333:s&OCID=AID695748_SEM_Wup2sgAAAJpPABMJ:20180508160333:s&s_kwcid=AL!4249!3!266790658703!e!!g!!powerpoint&ef_id=Wup2sgAAAJpPABMJ:20180508160333:s)
-- [Trello](https://trello.com/)
-- [Slack](https://slack.com/intl/ja-jp)
+- GitKraken
+- Hyper
+- PlantUML
+- Kibela
+- Trello
+- Slack
+- IKINEMA Orion
+- Docker for Windows
+- Airtest IDE
 
 ### 使用しているアセット
 
@@ -81,37 +78,24 @@
 
 #### ライブラリ
 
-- UniRx
 - ExtraLINQ
-- LINQ to GameObject
-- Odin
 - DOTween Pro
-- AnimeTask
-
-#### 簡易ライブラリ
-
-- gameobject_extension_component
+- LINQ to GameObject
+- UniRx
 
 #### エディタ拡張
 
-- Hierarchy PRO
-- Editor Console Pro
-- Favourites
-- Rainbow Folders
 - AssetGraphTool
+- Odin
 
 #### 簡易エディタ拡張
 
-- LockInspector
+- inspector-duplicator
 - game-view-maximizer
-- ProjectSettingsToolbar
 - SymbolCatalog
-- create-empty-at-zero-position
-- EditorExtensions
-- CopyComponentsByRegex
-- Component Copier
 - Asset Hunter
 - Mulligan Renamer
+- CopyComponentsByRegex
 
 #### オブジェクトプーリング
 
@@ -119,32 +103,30 @@
 
 #### デバッグ
 
-- EasyScriptTester
 - SRDebugger
+- uGUI-window-menu
+- EasyScriptTester
 - PA_ResourceTracker
 
 #### インプット
 
 - Rewired
-- Easy Touch 5
 - TouchScript
+- InControl
 
 #### アニメーション
 
-- SimpleAnimation
 - Final IK
 - Dynamic Bone
-- SALSA With RandomEyes
-- UMotion Pro
+- VoxHands
+- Oculus Lipsync Unity
+- AniLipSync
 - Very Animation
+- SimpleAnimation
 
 #### オーディオ
 
 - Master Audio
-
-#### UI
-
-- TextMesh Pro
 
 #### セーブデータ
 
@@ -153,23 +135,16 @@
 #### シェーダー
 
 - Amplify Shader Editor
-- Camera Play
 
 #### AI
 
 - state-machine
-- Behavior Designer(検証中)
-- A* Pathfinding Project Pro(検証中)
+- Behavior Designer
+- A* Pathfinding Project Pro
 
 #### カメラ
 
-- Cinemachine
 - Pro Camera 2D
-
-#### レベルデザイン
-
-- ProBuilder
-- ProGrids
 
 #### ビジュアルノベル
 
@@ -178,18 +153,16 @@
 #### VR
 
 - SteamVR Plugin
+- OpenVR
+
+#### AR
+
+- Unity ARKit Plugin
+- A-npanRemote
 
 ## 職務経歴
 
-### 2019/01 - 現在: TechBowl Inc.
-
-職務: メンター
-
-#### TechTrain
-
-- メンティーのスキルアップとキャリア支援
-
-### 2018/06 - 現在: DUO Inc.
+### 2018/06 - 現在: ZIZAI Inc.
 
 職務: クライアントエンジニア
 
@@ -202,6 +175,18 @@
 - Unityエディター拡張によるUtilityツールの設計, 実装
 - SRDebuggerのデバッグ機能の実装
 - iOSネイティブプラグインの実装
+
+### 2019/01 - 現在: TechBowl Inc.
+
+職務: メンター
+
+#### TechTrain
+
+- メンティーのスキルアップとキャリア支援
+
+### 2019/05 - 2019/07: アミューズメントメディア総合学院
+
+職務: VR専攻非常勤講師
 
 ### 2017/04 - 2018/06: CyberAgent, Inc.
 
