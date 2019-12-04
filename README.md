@@ -55,7 +55,7 @@
 
 - HTC VIVE
 - HTC VIVE Tracker 2018
-- Looking Glass
+- ManusVR
 
 ### 使用しているツール
 
@@ -65,54 +65,35 @@
 - Kibela
 - Trello
 - Slack
-- IKINEMA Orion
 - Docker for Windows
-- Airtest IDE
 
 ### 使用しているアセット
 
 #### フレームワーク
 
-- Zenject
 - Autoya
 
 #### ライブラリ
 
-- ExtraLINQ
 - DOTween Pro
-- LINQ to GameObject
+- ExtraLINQ
 - UniRx
 
 #### エディタ拡張
 
 - AssetGraphTool
-- Odin
 
 #### 簡易エディタ拡張
 
 - inspector-duplicator
 - game-view-maximizer
-- SymbolCatalog
-- Asset Hunter
-- Mulligan Renamer
-- CopyComponentsByRegex
-
-#### オブジェクトプーリング
-
-- PoolManager
+- SymbolWindow
 
 #### デバッグ
 
 - SRDebugger
 - uGUI-window-menu
 - EasyScriptTester
-- PA_ResourceTracker
-
-#### インプット
-
-- Rewired
-- TouchScript
-- InControl
 
 #### アニメーション
 
@@ -121,30 +102,10 @@
 - VoxHands
 - Oculus Lipsync Unity
 - AniLipSync
-- Very Animation
-- SimpleAnimation
-
-#### オーディオ
-
-- Master Audio
-
-#### セーブデータ
-
-- Easy Save
 
 #### シェーダー
 
 - Amplify Shader Editor
-
-#### AI
-
-- state-machine
-- Behavior Designer
-- A* Pathfinding Project Pro
-
-#### カメラ
-
-- Pro Camera 2D
 
 #### ビジュアルノベル
 
@@ -158,7 +119,6 @@
 #### AR
 
 - Unity ARKit Plugin
-- A-npanRemote
 
 ## 職務経歴
 
@@ -256,6 +216,7 @@
 
 |Date|Event|Title|
 |----|-----|-----|
+|2019/11/20|[Gotanda.unity #14](https://meetup.unity3d.jp/jp/events/1174)|[VRMアバターで自撮りが出来るカメラアプリを開発する過程で得た知見](https://docs.google.com/presentation/d/1rFfnK-_xMFm3znRthc40MVHD6UZBexVvS7Y5Vt1LUxY/edit?usp=sharing)|
 |2018/03/25|[【OthloTech x 学生LT】サイバーエージェント 年度末LTパーティー](https://othlotech.connpass.com/event/80462/)|最高の日本語入力システムSKKのすゝめ|
 |2017/12/21|[【サポーターズ勉強会】【Unity】SRDebuggerの使い方と拡張方法の紹介](https://supporterzcolab.com/event/242/)|[【Unity】SRDebuggerの使い方と拡張方法の紹介](https://qiita.com/tomoriaki/items/a2372333f8b73b421113)|
 
