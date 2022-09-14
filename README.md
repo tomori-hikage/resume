@@ -11,7 +11,7 @@
 
 ## 希望業務
 
-- xRコンテンツの開発
+- ゲーム開発
 
 ## スキル
 
@@ -24,7 +24,7 @@
 
 |プログラミング言語|備考|
 |---|---|
-|C#|5年以上の開発経験|
+|C#|8年以上の開発経験|
 |ShaderLab|2年以上の開発経験|
 |Objective-C|1年以上の開発経験|
 |C++|2年以上の開発経験|
@@ -34,7 +34,7 @@
 
 |名称|備考|
 |---|---|
-|Unity|5年以上の開発経験|
+|Unity|8年以上の開発経験|
 
 ### ポートフォリオ
 
@@ -51,78 +51,18 @@
 |[state-machine](https://github.com/tomori-hikage/state-machine)|UniRxをベースにしたステートマシン|
 |[ugui-script-creator](https://github.com/tomori-hikage/ugui-script-creator)|uGUIをスクリプトで構築するためのAsset|
 
-### 使用しているデバイス
-
-- HTC VIVE
-- HTC VIVE Tracker 2018
-- ManusVR
-
-### 使用しているツール
-
-- GitKraken
-- Hyper
-- PlantUML
-- Kibela
-- Trello
-- Slack
-- Docker for Windows
-
-### 使用しているアセット
-
-#### フレームワーク
-
-- Autoya
-
-#### ライブラリ
-
-- DOTween Pro
-- ExtraLINQ
-- UniRx
-
-#### エディタ拡張
-
-- AssetGraphTool
-
-#### 簡易エディタ拡張
-
-- inspector-duplicator
-- game-view-maximizer
-- SymbolWindow
-
-#### デバッグ
-
-- SRDebugger
-- uGUI-window-menu
-- EasyScriptTester
-
-#### アニメーション
-
-- Final IK
-- Dynamic Bone
-- VoxHands
-- Oculus Lipsync Unity
-- AniLipSync
-
-#### シェーダー
-
-- Amplify Shader Editor
-
-#### ビジュアルノベル
-
-- UTAGE3
-
-#### VR
-
-- SteamVR Plugin
-- OpenVR
-
-#### AR
-
-- Unity ARKit Plugin
-
 ## 職務経歴
 
-### 2018/06 - 現在: ZIZAI Inc.
+### 2021/06 - 2022/07: MyDearest Inc.
+
+職務: クライアントエンジニア
+
+#### 新規VRゲーム開発
+
+- プロトタイプの設計, 実装
+- インゲームの設計, 実装
+
+### 2018/06 - 2020/02: ZIZAI Inc.
 
 職務: クライアントエンジニア
 
@@ -136,7 +76,7 @@
 - SRDebuggerのデバッグ機能の実装
 - iOSネイティブプラグインの実装
 
-### 2019/01 - 現在: TechBowl Inc.
+### 2019/01 - 2020/08: TechBowl Inc.
 
 職務: メンター
 
