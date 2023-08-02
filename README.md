@@ -11,7 +11,7 @@
 
 ## 希望業務
 
-- ゲーム開発
+- コンテンツ開発
 
 ## スキル
 
@@ -20,11 +20,11 @@
 |自然言語|備考|
 |---|---|
 |日本語|ネイティブ|
-|English|Google翻訳や辞書を使い、ドキュメントやフォーラムなどの大凡の意味を理解出来る|
+|英語|日常会話, 翻訳機等を使用してドキュメントやフォーラム等の意味を理解出来る|
 
 |プログラミング言語|備考|
 |---|---|
-|C#|8年以上の開発経験|
+|C#|10年以上の開発経験|
 |ShaderLab|2年以上の開発経験|
 |Objective-C|1年以上の開発経験|
 |C++|2年以上の開発経験|
@@ -34,11 +34,11 @@
 
 |名称|備考|
 |---|---|
-|Unity|8年以上の開発経験|
+|Unity|10年以上の開発経験|
 
 ### ポートフォリオ
 
-|Title|Description|
+|名称|詳細|
 |-----|-----|
 |[inspector-duplicator](https://github.com/tomori-hikage/inspector-duplicator)|Inspectorビューをショートカットキーから複製してLockするエディタ拡張|
 |[game-view-maximizer](https://github.com/tomori-hikage/game-view-maximizer)|GameViewをショートカットキーからMaximizeするエディタ拡張|
@@ -52,6 +52,12 @@
 |[ugui-script-creator](https://github.com/tomori-hikage/ugui-script-creator)|uGUIをスクリプトで構築するためのAsset|
 
 ## 職務経歴
+
+### 2022/04 - 2023/02: 日影商事株式会社
+
+職務: 代表取締役社長
+
+#### アミューズメント施設の経営
 
 ### 2021/06 - 2022/07: MyDearest Inc.
 
